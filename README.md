@@ -31,8 +31,3 @@ Pixora is built as a complete image-generation studio, not a blank Create React 
 
 
 
----
-
-## License
-
-This project is available for personal and educational use.
